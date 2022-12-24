@@ -1,5 +1,7 @@
 import { _ } from "bemtv";
 
+import "./components/Counter";
+
 const { css, template, render } = _`App`();
 
 css`

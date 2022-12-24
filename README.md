@@ -9,7 +9,8 @@ These templates are meant to be used as is via the degit utility.
 ```bash
 npx degit diogoneves07/bemtv-templates/js my-app
 cd my-app
-npm install # or pnpm install or yarn install
+npm i # or yarn or pnpm
+npm run dev # or yarn or pnpm
 ```
 
 ## Typescript template
@@ -17,7 +18,8 @@ npm install # or pnpm install or yarn install
 ```bash
 npx degit diogoneves07/bemtv-templates/ts my-app
 cd my-app
-npm install # or pnpm install or yarn install
+npm i # or yarn or pnpm
+npm run dev # or yarn or pnpm
 ```
 
 ## I don't see a template that matches my need?
